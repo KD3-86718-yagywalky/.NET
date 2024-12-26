@@ -1,0 +1,7 @@
+F:\C#\MenuCalculator\bin\Debug\MenuCalculator.exe.config
+F:\C#\MenuCalculator\bin\Debug\MenuCalculator.exe
+F:\C#\MenuCalculator\bin\Debug\MenuCalculator.pdb
+F:\C#\MenuCalculator\obj\Debug\MenuCalculator.csproj.AssemblyReference.cache
+F:\C#\MenuCalculator\obj\Debug\MenuCalculator.csproj.CoreCompileInputs.cache
+F:\C#\MenuCalculator\obj\Debug\MenuCalculator.exe
+F:\C#\MenuCalculator\obj\Debug\MenuCalculator.pdb
