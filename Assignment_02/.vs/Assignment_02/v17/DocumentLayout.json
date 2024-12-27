@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\Assignment 02\\Assignment_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4605B52-578D-4E6C-B232-DC6FA8B9EF26}|Assignment_02.csproj|f:\\c#\\assignment 02\\assignment_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4605B52-578D-4E6C-B232-DC6FA8B9EF26}|Assignment_02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0273663C-FD51-43D9-8A69-2C9C7FA0C208}|..\\Maths\\Maths.csproj|f:\\c#\\assignment 02\\maths\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "F:\\C#\\Assignment 02\\Maths\\Maths.cs",
+              "RelativeDocumentMoniker": "..\\Maths\\Maths.cs",
+              "ToolTip": "F:\\C#\\Assignment 02\\Maths\\Maths.cs",
+              "RelativeToolTip": "..\\Maths\\Maths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:24:24.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\Assignment 02\\Assignment_02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\C#\\Assignment 02\\Assignment_02\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:12:47.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
